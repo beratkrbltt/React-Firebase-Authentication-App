@@ -31,7 +31,7 @@ function Navbar() {
                         <MenuIcon />
                     </IconButton>
                     <Typography variant="h8" component="div" sx={{ flexGrow: 1 }}>
-                        FİREBASE
+                        FIREBASE
                     </Typography>
                     <Button onClick={logout} color="inherit"><h8>Çıkış</h8></Button>
                 </Toolbar>
