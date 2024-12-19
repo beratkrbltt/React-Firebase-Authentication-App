@@ -17,8 +17,8 @@ A modern authentication system with **React**, **Firebase**, and **Material UI**
 
 ## 📸 Preview
 
-![1](image/1.png)
-![2](image/2.png)
+![1](image/image1.png)
+![2](image/image2.png)
 
 ---
 
